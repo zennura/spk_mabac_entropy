@@ -14,6 +14,9 @@ adalah suatu konsep yang berasal dari teori informasi dan statistik. Ia digunaka
 # Dashboard Admin
 ![Dashboard Admin](https://github.com/user-attachments/assets/38fd6986-4540-4d4e-8008-ba3ab912bea8)
 
+# Data Perhitungan
+![Data Perhitungan](https://github.com/user-attachments/assets/614308f7-f45f-47bf-a735-46a4e365e866)
+
 
 # Referensi
 (https://github.com/yokivalianda/SPK-Pemilihan-Siswa-Berprestasi/assets/50901028/7d224dd3-741a-4ac5-8db7-74099bfd8ec1)
