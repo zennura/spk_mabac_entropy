@@ -14,6 +14,9 @@ adalah suatu konsep yang berasal dari teori informasi dan statistik. Ia digunaka
 # Dashboard Admin
 ![Dashboard Admin](https://github.com/user-attachments/assets/38fd6986-4540-4d4e-8008-ba3ab912bea8)
 
+# Data Kriteria
+![Data Kriteria](https://github.com/user-attachments/assets/eec03ec1-1c04-4b0e-9eb2-c6f90793bc18)
+
 # Data Perhitungan
 ![Data Perhitungan](https://github.com/user-attachments/assets/614308f7-f45f-47bf-a735-46a4e365e866)
 
