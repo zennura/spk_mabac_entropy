@@ -11,6 +11,9 @@ adalah metode pengambilan keputusan multi-kriteria yang digunakan untuk memilih 
 # Pembobotan Entropy
 adalah suatu konsep yang berasal dari teori informasi dan statistik. Ia digunakan untuk mengukur ketidakpastian atau informasi yang terkandung dalam suatu set data atau distribusi probabilitas. Entropy mengukur sejauh mana suatu sistem atau data menyimpan kejutan atau ketidakpastian. Semakin tinggi nilai Entropy, semakin tinggi tingkat ketidakpastian dalam data atau sistem tersebut.
 
+# Dashboard Admin
+![Dashboard Admin](https://github.com/user-attachments/assets/38fd6986-4540-4d4e-8008-ba3ab912bea8)
+
 
 # Referensi
 (https://github.com/yokivalianda/SPK-Pemilihan-Siswa-Berprestasi/assets/50901028/7d224dd3-741a-4ac5-8db7-74099bfd8ec1)
